@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\2678_Soluongnguoicaotuoi\bin\Debug\2678_Soluongnguoicaotuoi.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\2678_Soluongnguoicaotuoi\bin\Debug\2678_Soluongnguoicaotuoi.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\2678_Soluongnguoicaotuoi\bin\Debug\2678_Soluongnguoicaotuoi.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\2678_Soluongnguoicaotuoi\obj\Debug\2678_Soluongnguoicaotuoi.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\2678_Soluongnguoicaotuoi\obj\Debug\2678_Soluongnguoicaotuoi.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\2678_Soluongnguoicaotuoi\obj\Debug\2678_Soluongnguoicaotuoi.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\2678_Soluongnguoicaotuoi\obj\Debug\2678_Soluongnguoicaotuoi.pdb

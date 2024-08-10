@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\200_soluongdao\bin\Debug\200_soluongdao.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\200_soluongdao\bin\Debug\200_soluongdao.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\200_soluongdao\bin\Debug\200_soluongdao.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\200_soluongdao\obj\Debug\200_soluongdao.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\200_soluongdao\obj\Debug\200_soluongdao.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\200_soluongdao\obj\Debug\200_soluongdao.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\200_soluongdao\obj\Debug\200_soluongdao.pdb

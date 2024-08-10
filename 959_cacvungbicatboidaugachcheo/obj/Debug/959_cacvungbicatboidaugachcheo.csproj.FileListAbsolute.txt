@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\959_cacvungbicatboidaugachcheo\bin\Debug\959_cacvungbicatboidaugachcheo.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\959_cacvungbicatboidaugachcheo\bin\Debug\959_cacvungbicatboidaugachcheo.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\959_cacvungbicatboidaugachcheo\bin\Debug\959_cacvungbicatboidaugachcheo.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\959_cacvungbicatboidaugachcheo\obj\Debug\959_cacvungbicatboidaugachcheo.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\959_cacvungbicatboidaugachcheo\obj\Debug\959_cacvungbicatboidaugachcheo.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\959_cacvungbicatboidaugachcheo\obj\Debug\959_cacvungbicatboidaugachcheo.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\959_cacvungbicatboidaugachcheo\obj\Debug\959_cacvungbicatboidaugachcheo.pdb

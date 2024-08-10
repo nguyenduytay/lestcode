@@ -12,7 +12,6 @@ namespace _200_soluongdao
         {
             int rows = grid.Length;
             int cols = grid[0].Length;
-            char land = '1',water='0';
             Queue<(int, int)> queue = new Queue<(int, int)>();
             int[][] jump =new int[][]
             {

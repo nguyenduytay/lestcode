@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_273\bin\Debug\Bai_273.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_273\bin\Debug\Bai_273.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_273\bin\Debug\Bai_273.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_273\obj\Debug\Bai_273.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_273\obj\Debug\Bai_273.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_273\obj\Debug\Bai_273.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_273\obj\Debug\Bai_273.pdb

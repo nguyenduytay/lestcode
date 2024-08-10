@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\bai_2053\bin\Debug\bai_2053.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\bai_2053\bin\Debug\bai_2053.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\bai_2053\bin\Debug\bai_2053.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\bai_2053\obj\Debug\bai_2053.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\bai_2053\obj\Debug\bai_2053.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\bai_2053\obj\Debug\bai_2053.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\bai_2053\obj\Debug\bai_2053.pdb

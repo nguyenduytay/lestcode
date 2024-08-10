@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_840_cac_o_vuong_ma_thuat\bin\Debug\Bai_840_cac_o_vuong_ma_thuat.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_840_cac_o_vuong_ma_thuat\bin\Debug\Bai_840_cac_o_vuong_ma_thuat.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_840_cac_o_vuong_ma_thuat\bin\Debug\Bai_840_cac_o_vuong_ma_thuat.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_840_cac_o_vuong_ma_thuat\obj\Debug\Bai_840_cac_o_vuong_ma_thuat.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_840_cac_o_vuong_ma_thuat\obj\Debug\Bai_840_cac_o_vuong_ma_thuat.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_840_cac_o_vuong_ma_thuat\obj\Debug\Bai_840_cac_o_vuong_ma_thuat.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_840_cac_o_vuong_ma_thuat\obj\Debug\Bai_840_cac_o_vuong_ma_thuat.pdb

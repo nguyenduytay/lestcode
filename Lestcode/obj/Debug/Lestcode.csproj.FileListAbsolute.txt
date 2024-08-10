@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Lestcode\bin\Debug\Lestcode.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Lestcode\bin\Debug\Lestcode.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Lestcode\bin\Debug\Lestcode.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Lestcode\obj\Debug\Lestcode.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Lestcode\obj\Debug\Lestcode.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Lestcode\obj\Debug\Lestcode.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Lestcode\obj\Debug\Lestcode.pdb

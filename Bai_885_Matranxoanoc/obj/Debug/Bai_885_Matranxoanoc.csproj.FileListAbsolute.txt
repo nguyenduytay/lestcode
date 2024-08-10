@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_885_Matranxoanoc\bin\Debug\Bai_885_Matranxoanoc.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_885_Matranxoanoc\bin\Debug\Bai_885_Matranxoanoc.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_885_Matranxoanoc\bin\Debug\Bai_885_Matranxoanoc.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_885_Matranxoanoc\obj\Debug\Bai_885_Matranxoanoc.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_885_Matranxoanoc\obj\Debug\Bai_885_Matranxoanoc.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_885_Matranxoanoc\obj\Debug\Bai_885_Matranxoanoc.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\Bai_885_Matranxoanoc\obj\Debug\Bai_885_Matranxoanoc.pdb

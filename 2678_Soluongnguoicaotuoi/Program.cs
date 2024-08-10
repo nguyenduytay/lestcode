@@ -24,6 +24,7 @@ namespace _2678_Soluongnguoicaotuoi
             Console.WriteLine(CountSeniors(a));
             Console.ReadLine();
             // co khong giu mat dung tim
+            // yeu xa kho lam nguoi oi
         }
     }
 }

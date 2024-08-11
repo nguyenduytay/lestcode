@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\1568_songaytoithieudengatketnoidao\bin\Debug\1568_songaytoithieudengatketnoidao.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\1568_songaytoithieudengatketnoidao\bin\Debug\1568_songaytoithieudengatketnoidao.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\1568_songaytoithieudengatketnoidao\bin\Debug\1568_songaytoithieudengatketnoidao.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\1568_songaytoithieudengatketnoidao\obj\Debug\1568_songaytoithieudengatketnoidao.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\1568_songaytoithieudengatketnoidao\obj\Debug\1568_songaytoithieudengatketnoidao.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\1568_songaytoithieudengatketnoidao\obj\Debug\1568_songaytoithieudengatketnoidao.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\1568_songaytoithieudengatketnoidao\obj\Debug\1568_songaytoithieudengatketnoidao.pdb

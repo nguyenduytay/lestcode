@@ -64,6 +64,8 @@ namespace _1568_songaytoithieudengatketnoidao
                }
                return 2;
            }*/
+
+        //cách 2
         public static int NumisLans(int[][] grid)
         {
             int rows = grid.Length, cols = grid[0].Length;
@@ -127,6 +129,28 @@ namespace _1568_songaytoithieudengatketnoidao
                 new int[]{0,1},
                 new int[]{0,-1}
             };
+
+            if (NumisLans(grid) == 0 || NumisLans(grid) >= 2)
+            {
+                return 0;
+            }
+
+            for (int i=0;i<m;i++)
+            {
+                for(int j=0;j<n;j++)
+                {
+                    if (grid[i][j]==1)
+                    {
+                        grid[i][j] = 0;
+                        if (NumisLans(grid) == 0 || NumisLans(grid) >= 2)
+                        {
+                            return 1;
+                        }
+                        grid[i][j] = 1;
+                    }
+                }
+            }
+
             for (int i=0; i<m;i++)
             {
                 for(int j=0;j<n;j++)
@@ -147,18 +171,6 @@ namespace _1568_songaytoithieudengatketnoidao
                                 if (row<m && row>=0 && col<n && col>=0 && grid[row][col]==1)
                                 {
                                     grid[row][col] = 0;
-                                    Console.WriteLine(i+" " +j);
-                                    Console.WriteLine(row+" "+col);
-                                    for (int h=0;h<m;h++)
-                                    {
-                                        for(int k=0;k<n;k++)
-                                        {
-                                            Console.Write(grid[h][k]);
-                                        }
-                                        Console.WriteLine();
-                                    }
-                                    Console.WriteLine();
-                                 
                                     if (NumisLans(grid) == 0 || NumisLans(grid) >= 2)
                                         return 2;
 
@@ -176,7 +188,7 @@ namespace _1568_songaytoithieudengatketnoidao
         {
             int[][] a =
             {
-             /*   new int[]{ 0, 1, 1, 0 },
+             /* new int[]{ 0, 1, 1, 0 },
                 new int[]{ 0, 1, 1, 0 },
                 new int[]{ 0, 0, 0, 0 }*/
              new int[]{1,1}

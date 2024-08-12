@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\703_phantulonthuKtrongmotdong\bin\Debug\703_phantulonthuKtrongmotdong.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\703_phantulonthuKtrongmotdong\bin\Debug\703_phantulonthuKtrongmotdong.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\703_phantulonthuKtrongmotdong\bin\Debug\703_phantulonthuKtrongmotdong.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\703_phantulonthuKtrongmotdong\obj\Debug\703_phantulonthuKtrongmotdong.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\703_phantulonthuKtrongmotdong\obj\Debug\703_phantulonthuKtrongmotdong.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\703_phantulonthuKtrongmotdong\obj\Debug\703_phantulonthuKtrongmotdong.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\703_phantulonthuKtrongmotdong\obj\Debug\703_phantulonthuKtrongmotdong.pdb

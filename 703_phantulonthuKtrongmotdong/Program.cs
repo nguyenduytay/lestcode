@@ -52,7 +52,6 @@ namespace _703_phantulonthuKtrongmotdong
         {
             int[] a = { 4, 5, 8, 2 };
             KthLargest k = new KthLargest(3,a);
-
             Console.WriteLine(k.Add(7));
             Console.ReadLine();
         }

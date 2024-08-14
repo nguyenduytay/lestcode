@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\719_Find-K-th -Smallest Pair-Distance\bin\Debug\719_Find-K-th -Smallest Pair-Distance.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\719_Find-K-th -Smallest Pair-Distance\bin\Debug\719_Find-K-th -Smallest Pair-Distance.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\719_Find-K-th -Smallest Pair-Distance\bin\Debug\719_Find-K-th -Smallest Pair-Distance.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\719_Find-K-th -Smallest Pair-Distance\obj\Debug\719_Find-K-th -Smallest Pair-Distance.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\719_Find-K-th -Smallest Pair-Distance\obj\Debug\719_Find-K-th -Smallest Pair-Distance.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\719_Find-K-th -Smallest Pair-Distance\obj\Debug\719_Find-K-th -Smallest Pair-Distance.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\719_Find-K-th -Smallest Pair-Distance\obj\Debug\719_Find-K-th -Smallest Pair-Distance.pdb

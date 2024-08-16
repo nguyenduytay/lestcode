@@ -1,0 +1,7 @@
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\860_Lemonade_change\bin\Debug\860_Lemonade_change.exe.config
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\860_Lemonade_change\bin\Debug\860_Lemonade_change.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\860_Lemonade_change\bin\Debug\860_Lemonade_change.pdb
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\860_Lemonade_change\obj\Debug\860_Lemonade_change.csproj.AssemblyReference.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\860_Lemonade_change\obj\Debug\860_Lemonade_change.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\860_Lemonade_change\obj\Debug\860_Lemonade_change.exe
+C:\Users\NGUYEN DUY TAY\source\repos\Lestcode\860_Lemonade_change\obj\Debug\860_Lemonade_change.pdb
